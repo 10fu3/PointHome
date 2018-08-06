@@ -1,0 +1,12 @@
+name: PointHome2
+version: ${project.version}
+main: jp.msfblue1.pointhome.PointHome
+commands:
+  home:
+    description: 'ホームにワープ・ホームの一覧が表示されます。'
+  delhome:
+    description: '指定したホームを削除します'
+  sethome:
+    description: '現在の場所をホームに設定します'
+  homehelp:
+    description: 'ホームのヘルプを表示します'
